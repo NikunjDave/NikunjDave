@@ -16,9 +16,9 @@
 <p align="left">
 <a href="https://twitter.com/nikkdave" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nikkdave" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/nikunj-dave-96b52858" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nikunj-dave-96b52858" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/nikk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="nikk" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/171724/nikk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="nikk" height="30" width="40" /></a>
 <a href="https://medium.com/@nikk.dave" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@nikk.dave" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/nikunj19/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/nikunj19/" height="30" width="40" /></a>
+<a href="https://leetcode.com/nikunj19/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/nikunj19/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
